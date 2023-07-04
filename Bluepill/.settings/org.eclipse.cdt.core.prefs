@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/D\:\\ARM\\ARM-GNU-TOOLCHAIN-12.2.MPACBTI-REL1-MINGW-W64-I686-ARM-NONE-EABI\\ARM-NONE-EABI\\BIN/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/D\:\\ARM\\ARM-GNU-TOOLCHAIN-12.2.MPACBTI-REL1-MINGW-W64-I686-ARM-NONE-EABI\\ARM-NONE-EABI\\BIN/operation=append
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/D\:\\ARM\\ARM-GNU-TOOLCHAIN-12.2.MPACBTI-REL1-MINGW-W64-I686-ARM-NONE-EABI\\ARM-NONE-EABI\\BIN/value=${GCC_EABI}
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/PATH/value=D\:\\ARM\\arm-gnu-toolchain-12.2.mpacbti-rel1-mingw-w64-i686-arm-none-eabi\\arm-none-eabi\\bin;D\:\\ARM\\arm-gnu-toolchain-12.2.mpacbti-rel1-mingw-w64-i686-arm-none-eabi\\bin;D\:\\Embedded_Tourky_ARM\\tools\\openocd\\scripts\\st
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1096087086/appendContributed=true
